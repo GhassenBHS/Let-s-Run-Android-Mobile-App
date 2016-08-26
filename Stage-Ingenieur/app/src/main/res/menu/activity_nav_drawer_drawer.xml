@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/menu_settings"
+        android:icon="@drawable/ic_menu_manage"
+        android:title="User Settings" />
+    <item
+        android:id="@+id/start_jogging"
+        android:icon="@drawable/menu_runner"
+        android:title="Start Session" />
+
+    <item
+        android:id="@+id/bb_menu_recents"
+        android:icon="@drawable/ic_recents"
+        android:title="Recents sessions" />
+    <item
+        android:id="@+id/coming_sessions"
+        android:icon="@drawable/menu_runner"
+        android:title="Coming Sessions" />
+
+
+    <item
+        android:id="@+id/menu_graph"
+        android:icon="@drawable/graph"
+        android:title="Activity Graph" />
+
+
+
+
+</menu>

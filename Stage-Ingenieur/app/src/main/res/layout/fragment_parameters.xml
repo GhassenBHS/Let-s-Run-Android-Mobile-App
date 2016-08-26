@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal">
+
+
+    <TextView
+        android:layout_marginTop="70dp"
+        android:layout_marginStart="5dp"
+        android:id="@+id/rythm_text"
+        android:textDirection="locale"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your Mean Jogging Rythm"
+        android:layout_alignParentTop="true"
+        android:layout_alignEnd="@+id/modify"
+        android:textSize="15dp" />
+
+
+
+    <org.adw.library.widgets.discreteseekbar.DiscreteSeekBar
+        android:id="@+id/rythm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:dsb_min="1"
+        app:dsb_max="20"
+        app:dsb_progressColor="@color/pink_dark"
+        app:dsb_rippleColor="@color/green"
+        app:dsb_indicatorFormatter="%d"
+        android:layout_below="@+id/rythm_text"
+        android:layout_alignEnd="@+id/modify" />
+
+
+
+    <TextView
+        android:id="@+id/radius_text"
+        android:layout_marginStart="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Notification radius"
+        android:layout_below="@+id/rythm"
+        android:layout_alignEnd="@+id/modify"
+        android:textSize="15dp" />
+    <org.adw.library.widgets.discreteseekbar.DiscreteSeekBar
+        android:id="@+id/radius"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:dsb_min="1"
+        app:dsb_max="30"
+        app:dsb_progressColor="@color/pink_dark"
+        app:dsb_rippleColor="@color/green"
+        app:dsb_indicatorFormatter="%d"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/radius_text"
+        android:layout_alignRight="@+id/modify" />
+
+    <TextView
+        android:id="@+id/location_text"
+        android:layout_marginStart="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Notification Location"
+        android:layout_below="@+id/radius"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="55dp"
+        android:textSize="15dp" />
+
+    <ImageView
+        android:id="@+id/modify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/modify"
+        android:layout_alignTop="@+id/location_text"
+        android:layout_toEndOf="@+id/circularButton1" />
+
+    <ImageView
+        android:id="@+id/add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:src="@drawable/add"
+        android:layout_alignTop="@+id/location_text"
+        android:layout_toEndOf="@+id/circularButton1"
+        android:layout_alignBottom="@+id/modify" />
+
+
+
+
+
+
+    <TextView
+        android:id="@+id/validate"
+        android:layout_marginStart="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Validate Settings"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true"
+        android:textSize="15dp" />
+
+    <com.dd.CircularProgressButton
+        android:layout_gravity="center"
+        android:id="@+id/circularButton1"
+        android:layout_width="196dp"
+        android:layout_height="64dp"
+        android:textColor="@color/cpb_white"
+        android:textSize="18sp"
+        app:cpb_cornerRadius="48dp"
+        app:cpb_iconComplete="@drawable/ic_action_accept"
+        app:cpb_iconError="@drawable/ic_action_cancel"
+        app:cpb_textIdle="Validate"
+        android:layout_below="@+id/validate"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+
+</RelativeLayout>

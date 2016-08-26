@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-f45b52b14b2369a0f79b70d3adf24243dab2b211.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\me.drakeet.materialdialog\library\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6e57fe155cea810fb2ba5fe9ffabcb197ecf81d1">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-0a57589144512aeffdabefc73ac40aa66cf79106.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-30b12e69ad8726eab602f57e8192a414a51c6a8c.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-df6fe4105cbb6fe5f6505e3ab994f1de3fa0c779.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPEED\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\library-2.4.0-3c05f9cb3d6ecae80640070e8e31399dc5376943.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPEED\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\gson-2.6.2-203f172dc1f9c615e1a254c873c87d12478f2d07.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-6ffd1cfe8c147c32d85e6ea3753ab101112a77d2.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-4831ec8609802e1a73c815734454f3ce6a1a96c7.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-8df13f31c4e992084f08bc4fda08ed8cf2d3c239.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.ncapdevi\frag-nav\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="78cd2db9cea1e036c0143ccacf8664b1385825fa">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-e562e7912cbcb7b1cca79175c70102aa888dd9bc.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-6e4d543faecd7d75c2da25d642670019d80db925.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPEED\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0-4ef0de3f4b92bf4c5f20fb2bd6893f1533f3efd5.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.github.ViksaaSkool\AwesomeSplash\v1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6924ef2127a1fb106d13d701c25b2688223c0fad">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-e230db59d498560b75d67b64361aa68f6ad1a608.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPEED\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\okio-1.6.0-56b3ec156045631f78015bc1115d0a5736d420e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPEED\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2-abc834607664626e1aafa7b196d000a14b85f035.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPEED\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1-2f8b01bc8e28bf077cf9af8f3aed8e6dda79f95c.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-fe45f4c913f6bb7b0ab9728de3f5b4e9c1973cca.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-5ecb6731554aff80695ff0c96296020ba783293e.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.8.5.9\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="04d4337de6ccd7e57aec621f41ee747976fca7d8">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-ab70839267051219efc7d08aad51aba0598f3829.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-3725e585c0fea15b3237cc79e1162ebd0e40de3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPEED\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.0.9\4244e2998018aa492389e8e30a77b7987959608e\MPAndroidChart-v2.0.9.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4244e2998018aa492389e8e30a77b7987959608e">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.0.9-58aae78112332b2c48cfdcd8a5094169bf56ebf0.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-030e6385a1e854c169517f284abfed36d866cc46.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-1b833872424392b3295a9fae0b8c09a01cee6753.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.studioidan.httpagent\httpagent\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5b8a3a517cd89aae35b5af46ee3a6e7046888bab">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-34ff339abccc6bced76f5329eac988bf2f0c1c1a.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-f8a3d30e3a453a052852fea75a877f2cc8c746cf.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-cd5354cd09c3a2b8be95b28250ef07efd38babbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPEED\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2-49aa52174e9a765add319efbbb41e5df83a4e674.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-dad8a0fb92285bde98e0e62bff0588f88b1d681e.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-b33ae8c2d98351709def54990ff9f1589ff368b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPEED\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-ef8f6dbaea076a9e55ac950de4cbd714454caf16.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.github.dmytrodanylyk.circular-progress-button\library\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a6ed980c74ad35b2dfc4e1daf97bfc0eea5d7c9">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-faf1def30f39173cb85ead8babd91d9669f17f05.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\org.adw.library\discrete-seekbar\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7be042dd2aa8157a2b63934902f472952d2ea1fe">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-bc86814873e4628665460f1e2a7dcd71aeba8498.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-9bfdb3a636e3beb9d84b3c4b574b2930c78a6593.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-8b1218f8db485ab9550b4ea3815851fb303f6be4.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.github.javiersantos\MaterialStyledDialogs\1.5.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c31345a57c753d8925c08b3104f6bb8f0602a05d">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-ea5fbdd51cd7d8f42dc8e8eb114155a8d2194565.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.github.jorgecastilloprz\fillableloaders\1.02\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09d89c0a8e2ba8d2fd5e7110d62bc6916d642567">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-d93acd3af2f7a01cf912f022f05779f5dc48061f.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.tubb.smrv\swipemenu-recyclerview\5.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ab60cd4a97516c295430f64c7922db2a00999695">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-9854a179b27c67772af50e8831fa3beb68eac12a.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-b84d53e551a17aaa7bbcf973113ead14dbc81b23.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.github.ozodrukh\CircularReveal\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3a3d62fab67ccb83f386a4c092bfb5747ea15a7">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-410a4c0168d8947c99e3beebb4585c2bd01dbd4a.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.google.android.support\wearable\2.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="87fb797ba434e0847cfcca4ffd740941c41634e6">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-4e394676e6e227e3e3e20acac42f35f685527ecf.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-6e47d236736feeac1a3a10ceabe157245649ea38.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ef34ef98ae01b7e36f0c18e17282cf48b6394f3c">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-d2a568f6b651dec44c8f8195e806089264523645.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-5ff368952647b928362410a8f787f24a544afbf6.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-5c5b817b2880ddf7af24403f55d3f8df642c918e.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-f9f92783dc00541bc5ca037cd5a8acff1fadcebe.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-37d6b54152cffab3deba18281d904f4566dfa6fd.jar" />
+    </item>
+    <item
+        jar="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\exploded-aar\com.jaredrummler\material-spinner\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="60182b96dcbd95dc33dd734bc81505d2b5ddc70e">
+        <dex dex="E:\Work\Projects Testing\Jogging\Stage-Ingenieur\Stage-Ingenieur\app\build\intermediates\pre-dexed\debug\classes-814b61574daf865865cbd566058d2a5bde70440c.jar" />
+    </item>
+
+</items>

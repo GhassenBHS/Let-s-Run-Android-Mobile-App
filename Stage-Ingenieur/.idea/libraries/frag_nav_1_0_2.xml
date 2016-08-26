@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="frag-nav-1.0.2">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.ncapdevi/frag-nav/1.0.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.ncapdevi/frag-nav/1.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.ncapdevi/frag-nav/1.0.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ncapdevi/frag-nav/1.0.2/24e7a5ea799fd5922f6e4f18c5deac63a8f2ff34/frag-nav-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

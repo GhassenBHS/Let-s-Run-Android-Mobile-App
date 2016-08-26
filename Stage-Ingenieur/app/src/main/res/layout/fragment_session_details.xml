@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal">
+
+
+    <TextView
+        android:layout_marginTop="70dp"
+        android:layout_marginStart="5dp"
+        android:id="@+id/started_by"
+        android:textColor="@color/pink_dark"
+        android:textDirection="locale"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Session started by"
+        android:textSize="15dp"
+        android:layout_alignParentTop="true" />
+
+
+
+    <TextView
+        android:id="@+id/starter"
+        android:layout_margin="10dp"
+        android:layout_marginStart="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The starter is"
+        android:layout_below="@+id/started_by"
+        android:layout_marginTop="33dp" />
+
+
+
+    <TextView
+        android:id="@+id/starts_at"
+        android:layout_margin="10dp"
+        android:layout_marginStart="5dp"
+        android:textColor="@color/pink_dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Starts at"
+        android:textSize="15dp"
+        android:layout_below="@+id/starter"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="32dp" />
+
+    <TextView
+        android:id="@+id/start"
+        android:layout_margin="10dp"
+        android:layout_marginStart="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="It starts at"
+        android:layout_below="@+id/starts_at"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="35dp" />
+
+    <TextView
+        android:id="@+id/finish_at"
+        android:layout_margin="10dp"
+        android:layout_marginStart="5dp"
+        android:textColor="@color/pink_dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Finshs at"
+        android:textSize="15dp"
+        android:layout_below="@+id/start"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="32dp" />
+
+    <TextView
+        android:id="@+id/finish"
+        android:layout_margin="10dp"
+        android:layout_marginStart="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="It finish at"
+        android:layout_below="@+id/finish_at"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="32dp" />
+
+    <ImageView
+        android:id="@+id/runners"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_friends"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginStart="137dp"
+        android:layout_alignTop="@+id/runners_text"
+        android:layout_toEndOf="@+id/join" />
+
+
+
+
+
+
+
+
+    <TextView
+        android:id="@+id/location_text"
+        android:layout_margin="10dp"
+        android:layout_marginStart="5dp"
+        android:textColor="@color/pink_dark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Location"
+        android:textSize="15dp"
+        android:layout_gravity="right"
+        android:layout_below="@+id/finish"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="36dp" />
+
+    <ImageView
+        android:id="@+id/location_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_alignTop="@+id/location_text"
+        android:layout_alignStart="@+id/runners" />
+
+    <TextView
+        android:id="@+id/runners_text"
+        android:layout_margin="15dp"
+        android:textColor="@color/pink_dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Runners for this session"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@+id/location_text"
+        android:layout_marginTop="32dp" />
+
+
+
+
+
+    <TextView
+        android:id="@+id/join"
+        android:layout_margin="15dp"
+        android:textColor="@color/pink_dark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Join this session"
+        android:textSize="15dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@+id/runners" />
+
+    <ImageView
+        android:id="@+id/add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:src="@drawable/add"
+        android:layout_alignTop="@+id/join"
+        android:layout_alignStart="@+id/runners" />
+
+    <TextView
+        android:id="@+id/quit"
+        android:layout_margin="15dp"
+        android:textColor="@color/pink_dark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quit this session"
+        android:textSize="15dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@+id/runners" />
+
+    <ImageView
+        android:id="@+id/minus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:src="@drawable/quit"
+        android:layout_alignTop="@+id/join"
+        android:layout_alignStart="@+id/runners" />
+
+
+
+
+</RelativeLayout>

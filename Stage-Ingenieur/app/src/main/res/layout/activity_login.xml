@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.sitepoint.bhs.LoginActivity">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/login_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_card_background"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_half">
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ic_edit_text_default"
+            android:drawablePadding="@dimen/padding_half"
+            android:hint="input username"
+            android:padding="@dimen/padding_half"
+            android:singleLine="true"
+            android:textCursorDrawable="@drawable/edittext_cursor"
+            android:textSize="13sp" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/ic_edit_text_default"
+            android:drawablePadding="@dimen/padding_half"
+            android:hint="input password"
+            android:inputType="textPassword"
+            android:padding="@dimen/padding_half"
+            android:singleLine="true"
+            android:textCursorDrawable="@drawable/edittext_cursor"
+            android:textSize="13sp" />
+
+        <Button
+            android:id="@+id/login_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/selector_login"
+            android:enabled="false"
+            android:gravity="center"
+            android:text="Login In"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_large" />
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/padding_half"
+            android:gravity="center_vertical"
+            android:padding="@dimen/padding_half"
+            android:text="@string/FbTitle"
+            android:textColor="#2d2d2d"
+            android:textSize="19sp" />
+
+        <Button
+            android:id="@+id/myFacebookButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/selector_login"
+            android:gravity="center"
+            android:text="@string/FbLogin"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_large" />
+
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

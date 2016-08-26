@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "149224838868",
+    "firebase_url": "https://jogging-app.firebaseio.com",
+    "project_id": "jogging-app",
+    "storage_bucket": "jogging-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149224838868:android:77ad4c3c8e651832",
+        "android_client_info": {
+          "package_name": "com.jogging.bhs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149224838868-9h9ncr4igv2rmuu1g8eqs981acqagcqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jogging.bhs",
+            "certificate_hash": "83F947F5A64CFEA0218D883B1F44C220F8B1CBCA"
+          }
+        },
+        {
+          "client_id": "149224838868-dt24of8d4jp1jkcu669m4tj470bfjfq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApGRaJMFdZkd3iTIs-HX4gmXsE9E6SVhA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149224838868-dt24of8d4jp1jkcu669m4tj470bfjfq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149224838868:android:34c18af4c2991698",
+        "android_client_info": {
+          "package_name": "com.sitepoint.facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149224838868-dt24of8d4jp1jkcu669m4tj470bfjfq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApGRaJMFdZkd3iTIs-HX4gmXsE9E6SVhA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
